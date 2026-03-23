@@ -79,7 +79,7 @@ Every zone is calibrated from historical data, not arbitrary round numbers.
 ## Setup
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/macro-catalyst.git
+git clone https://github.com/devbecrying-eng/macro-catalyst.git
 cd macro-catalyst
 pip install -r requirements.txt
 streamlit run macro_catalyst.py
